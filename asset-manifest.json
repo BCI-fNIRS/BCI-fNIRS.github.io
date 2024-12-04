@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//bci-fnirs.github.io/static/css/main.589e09ed.css",
+    "main.css": "//bci-fnirs.github.io/static/css/main.8780f03e.css",
     "main.js": "//bci-fnirs.github.io/static/js/main.3672eae6.js",
     "index.html": "//bci-fnirs.github.io/index.html",
-    "main.589e09ed.css.map": "//bci-fnirs.github.io/static/css/main.589e09ed.css.map",
+    "main.8780f03e.css.map": "//bci-fnirs.github.io/static/css/main.8780f03e.css.map",
     "main.3672eae6.js.map": "//bci-fnirs.github.io/static/js/main.3672eae6.js.map"
   },
   "entrypoints": [
-    "static/css/main.589e09ed.css",
+    "static/css/main.8780f03e.css",
     "static/js/main.3672eae6.js"
   ]
 }
