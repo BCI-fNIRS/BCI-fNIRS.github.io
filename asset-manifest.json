@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "//bci-fnirs.github.io/static/css/main.d21cae7b.css",
-    "main.js": "//bci-fnirs.github.io/static/js/main.721998b8.js",
+    "main.css": "//bci-fnirs.github.io/static/css/main.29b1bfe7.css",
+    "main.js": "//bci-fnirs.github.io/static/js/main.a185102d.js",
+    "static/media/flexsingle.gif": "//bci-fnirs.github.io/static/media/flexsingle.a630308f1d6a1de4a4b6.gif",
     "static/media/IMG_3250.jpg": "//bci-fnirs.github.io/static/media/IMG_3250.2611ba37d855bfda9a85.jpg",
+    "static/media/fnirsflexsingle.gif": "//bci-fnirs.github.io/static/media/fnirsflexsingle.ade38e3559b0d28e610a.gif",
     "index.html": "//bci-fnirs.github.io/index.html",
-    "main.d21cae7b.css.map": "//bci-fnirs.github.io/static/css/main.d21cae7b.css.map",
-    "main.721998b8.js.map": "//bci-fnirs.github.io/static/js/main.721998b8.js.map"
+    "main.29b1bfe7.css.map": "//bci-fnirs.github.io/static/css/main.29b1bfe7.css.map",
+    "main.a185102d.js.map": "//bci-fnirs.github.io/static/js/main.a185102d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d21cae7b.css",
-    "static/js/main.721998b8.js"
+    "static/css/main.29b1bfe7.css",
+    "static/js/main.a185102d.js"
   ]
 }
