@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//bci-fnirs.github.io/static/css/main.29b1bfe7.css",
-    "main.js": "//bci-fnirs.github.io/static/js/main.e0c75a54.js",
+    "main.css": "//bci-fnirs.github.io/static/css/main.30e07cb9.css",
+    "main.js": "//bci-fnirs.github.io/static/js/main.2e0d1f81.js",
     "static/media/finalmcuboard.gif": "//bci-fnirs.github.io/static/media/finalmcuboard.f84894daa5ff9a3c3376.gif",
     "static/media/flexsingle.gif": "//bci-fnirs.github.io/static/media/flexsingle.a630308f1d6a1de4a4b6.gif",
     "static/media/finalMCUboar.gif": "//bci-fnirs.github.io/static/media/finalMCUboar.06cb97e185f4b8f6ab23.gif",
@@ -11,11 +11,11 @@
     "static/media/IMG_3250.jpg": "//bci-fnirs.github.io/static/media/IMG_3250.2611ba37d855bfda9a85.jpg",
     "static/media/fnirsflexsingle.gif": "//bci-fnirs.github.io/static/media/fnirsflexsingle.ade38e3559b0d28e610a.gif",
     "index.html": "//bci-fnirs.github.io/index.html",
-    "main.29b1bfe7.css.map": "//bci-fnirs.github.io/static/css/main.29b1bfe7.css.map",
-    "main.e0c75a54.js.map": "//bci-fnirs.github.io/static/js/main.e0c75a54.js.map"
+    "main.30e07cb9.css.map": "//bci-fnirs.github.io/static/css/main.30e07cb9.css.map",
+    "main.2e0d1f81.js.map": "//bci-fnirs.github.io/static/js/main.2e0d1f81.js.map"
   },
   "entrypoints": [
-    "static/css/main.29b1bfe7.css",
-    "static/js/main.e0c75a54.js"
+    "static/css/main.30e07cb9.css",
+    "static/js/main.2e0d1f81.js"
   ]
 }
